@@ -1,6 +1,12 @@
 # BPR PS Controller Icons for PC
 BPR: PS4 controller buttons ported to BPR: PC
 
+---
+
+Files:
+- FLAPTHUD.BUNDLE contains the PS buttons
+- FLAPTHUD.BUNDLE.bak is a backup of the original file
+
 Junkyard:
 
 ![Buttons in Junkyard](https://raw.githubusercontent.com/axe-icu/bpr-pc-ps4buttons/main/img/0.png)
