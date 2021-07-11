@@ -1,7 +1,7 @@
 # BPR PS Controller Icons for PC
 BPR: PS4 controller buttons ported to BPR: PC
 
-Thanks to [Danni](https://www.youtube.com/channel/UCZoilKhwr86ODvN3-1P-lYg) for the help.
+Thanks to [Danni](https://github.com/Danni-isHere) for the help.
 
 ---
 
